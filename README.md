@@ -25,7 +25,7 @@
 
 ---
 
-### ✍️ eunzu.log (coming soon!)
+### ✍️ eunzu.log☁️
 - [eunzu.log on velog] (https://velog.io/@eunzu-log)
 > 공부하면서 생긴 기록, 에러, 아이디어들! <br/>
 > **eunzu.log**에 차곡차곡 쌓아갈 예정이에요.
