@@ -1,4 +1,4 @@
-<h1 align="center">✨ hello, world! I'm enuzu ✨</h1>
+<h1 align="center">✨ Hello, world! I'm enuzu ✨</h1>
 
 <p align="center">
   아직은 배우고있는 컴퓨터공학과 학생<br/>
@@ -26,7 +26,8 @@
 ---
 
 ### ✍️ eunzu.log (coming soon!)
-> 공부하면서 생긴 기록, 에러, 아이디어를 <br/>
+- [eunzu.log on velog] (https://velog.io/@eunzu-log)
+> 공부하면서 생긴 기록, 에러, 아이디어들! <br/>
 > **eunzu.log**에 차곡차곡 쌓아갈 예정이에요.
 
 ---
