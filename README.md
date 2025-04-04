@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hello, world! I'm enuzu ✨</h1>
+<h1 align="center">✨ Hello, world! I'm eunzu ✨</h1>
 
 <p align="center">
   아직은 배우고있는 컴퓨터공학과 학생<br/>
@@ -9,7 +9,7 @@
 
 ### 🧩 about me
 
-- 🙋🏻‍♀️ 이름은 은주, 닉네임은 **enuzu**  
+- 🙋🏻‍♀️ 이름은 은주, 닉네임은 **eunzu**  
 - 🎯 목표는 *나만의 속도로 꾸준히 개발자 되기*  
 - 🌱 기초부터 탄탄하게 다지는 중!
 
@@ -47,5 +47,5 @@
 </p>
 
 <p align="center">
-  — by <strong>enuzu</strong> 🐢
+  — by <strong>eunzu</strong> 🐢
 </p>
